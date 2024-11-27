@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Alefutbands
-- 👀 I’m interested in Discord servers icons.
-- 🌱 I’m currently learning Lua script.
+- 🌱 I’m currently learning Luau script.
 
 <!---
 Alefutbands/Alefutbands is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
